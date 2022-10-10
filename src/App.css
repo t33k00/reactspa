@@ -17,7 +17,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(255, 255, 255);
 }
 
 .App-link {
@@ -38,4 +38,11 @@ body {
   color:white;
   margin-bottom:50px;
   background-image: url(background.jpg);
+}
+header{
+  background-image: url(./header.jpg);
+  height: 260px;
+  width: 100%;
+  background-size: cover;
+  margin-top: 0px;
 }
